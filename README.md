@@ -2,7 +2,7 @@
 
 _Description_
 
-This is a spin on the classic frogger game.  Avoid the enemy bugs!  Once the player reaches the water, a point will be added; however, if the player gets hit by a bug, a point will be subtracted.  
+This is a spin on the classic frogger game.  Avoid the enemy bugs!  Once the player reaches the water, a point is added; however, if the player gets hit by a bug, a point is subtracted.  
 
 _Control_
 
